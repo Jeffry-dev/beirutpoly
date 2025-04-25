@@ -1,1 +1,21 @@
-this is documentation about beirutpoly
+# BeirutPoly 🎲🇱🇧  
+*A Monopoly-inspired board game based on the vibrant city of Beirut*
+
+**BeirutPoly** is a localized, Beirut-themed version of the classic Monopoly board game. Just like Monopoly, it revolves around buying, trading, and developing properties — but instead of Atlantic City or generic locations, **BeirutPoly** brings the heart of **Beirut** to the board.
+
+Players can purchase and develop iconic neighborhoods like **Hamra**, **Achrafieh**, **Mar Mikhael**, **Verdun**, and **Gemmayzeh**. Instead of traditional houses and hotels, properties can be upgraded with **cafés**, **pubs**, **rooftop lounges**, or **luxury apartments**.
+
+The **Chance** and **Community Chest** cards are also locally inspired. You might:
+
+- Lose money due to a **traffic jam on the Corniche**
+- Win a bonus from a **dabke flash mob in Downtown**
+- Pay a fee for **generator maintenance**
+- Or even skip a turn during a **power outage**
+
+BeirutPoly captures the **charm, culture, and chaos** of living in Beirut — from real estate booms and social scenes to street food and unexpected surprises.
+
+It’s fun, competitive, and full of local flavor — perfect for both **locals** and **visitors** who want to experience the spirit of Beirut in a playful, nostalgic way.
+
+---
+
+> “It’s not just a game. It’s Beirut, block by block.”
